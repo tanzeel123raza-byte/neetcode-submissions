@@ -8,6 +8,7 @@ int main()
 
 	cin >> s1 >> s2;
 
+	// string
 	for(char &c : s1)
 	{
 		c = tolower(c);
